@@ -1,0 +1,7 @@
+This is the source code as described in MSDN post:
+
+Walkthrough: Displaying Statement Completion
+
+https://msdn.microsoft.com/en-us/library/ee372314.aspx
+
+This code is a auto completion extension for text files 
